@@ -1,0 +1,25 @@
+/********************* TAG SELECTORS **********************/
+h1 {
+    font-size: 25px;
+}
+
+/******************* CLASS SELECTORS ********************/
+.taco {
+    display:inline-block;
+    width: 15%;
+    height: none;
+    border: none;
+    text-align: center;
+    background-color: greenyellow;
+
+}
+
+/******************* ID SELECTORS ********************/
+#heading {
+    color: green;
+}
+
+/******************* SUDO CLASS ********************/
+img:hover {
+    background-color: lightseagreen;
+}
